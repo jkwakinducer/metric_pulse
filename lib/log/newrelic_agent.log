@@ -1,0 +1,49 @@
+# Logfile created on 2016-03-04 14:39:06 -0800 by logger.rb/47272
+[2016-03-04 14:39:06 -0800 mbp-0631.ad.avant.com (70382)] INFO : Starting the New Relic agent in "development" environment.
+[2016-03-04 14:39:06 -0800 mbp-0631.ad.avant.com (70382)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-03-04 14:39:06 -0800 mbp-0631.ad.avant.com (70382)] WARN : No configuration file found. Working directory = /Users/jukwak82/Projects/metric_pulse/lib
+[2016-03-04 14:39:06 -0800 mbp-0631.ad.avant.com (70382)] WARN : Looked in these locations (based on defaults): /Users/jukwak82/Projects/metric_pulse/lib/config/newrelic.yml, /Users/jukwak82/Projects/metric_pulse/lib/newrelic.yml, /Users/jukwak82/Projects/metric_pulse/lib/config/newrelic.yml, /Users/jukwak82/Projects/metric_pulse/lib/newrelic.yml, /Users/jukwak82/.newrelic/newrelic.yml, /Users/jukwak82/newrelic.yml
+[2016-03-04 14:39:06 -0800 mbp-0631.ad.avant.com (70382)] INFO : Environment: development
+[2016-03-04 14:39:06 -0800 mbp-0631.ad.avant.com (70382)] INFO : No known dispatcher detected.
+[2016-03-04 14:39:06 -0800 mbp-0631.ad.avant.com (70382)] INFO : Application: development
+[2016-03-04 14:39:06 -0800 mbp-0631.ad.avant.com (70382)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2016-03-04 14:39:06 -0800 mbp-0631.ad.avant.com (70382)] INFO : Installing Net instrumentation
+[2016-03-04 14:39:06 -0800 mbp-0631.ad.avant.com (70382)] INFO : Finished instrumentation
+[2016-03-04 14:41:25 -0800 mbp-0631.ad.avant.com (70519)] INFO : Starting the New Relic agent in "development" environment.
+[2016-03-04 14:41:25 -0800 mbp-0631.ad.avant.com (70519)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-03-04 14:41:25 -0800 mbp-0631.ad.avant.com (70519)] WARN : No configuration file found. Working directory = /Users/jukwak82/Projects/metric_pulse/lib
+[2016-03-04 14:41:25 -0800 mbp-0631.ad.avant.com (70519)] WARN : Looked in these locations (based on defaults): /Users/jukwak82/Projects/metric_pulse/lib/config/newrelic.yml, /Users/jukwak82/Projects/metric_pulse/lib/newrelic.yml, /Users/jukwak82/Projects/metric_pulse/lib/config/newrelic.yml, /Users/jukwak82/Projects/metric_pulse/lib/newrelic.yml, /Users/jukwak82/.newrelic/newrelic.yml, /Users/jukwak82/newrelic.yml
+[2016-03-04 14:41:25 -0800 mbp-0631.ad.avant.com (70519)] INFO : Environment: development
+[2016-03-04 14:41:25 -0800 mbp-0631.ad.avant.com (70519)] INFO : No known dispatcher detected.
+[2016-03-04 14:41:25 -0800 mbp-0631.ad.avant.com (70519)] INFO : Application: development
+[2016-03-04 14:41:25 -0800 mbp-0631.ad.avant.com (70519)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2016-03-04 14:41:25 -0800 mbp-0631.ad.avant.com (70519)] INFO : Installing Net instrumentation
+[2016-03-04 14:41:25 -0800 mbp-0631.ad.avant.com (70519)] INFO : Finished instrumentation
+[2016-03-04 14:44:46 -0800 mbp-0631.ad.avant.com (70706)] INFO : Starting the New Relic agent in "development" environment.
+[2016-03-04 14:44:46 -0800 mbp-0631.ad.avant.com (70706)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-03-04 14:44:46 -0800 mbp-0631.ad.avant.com (70706)] WARN : No configuration file found. Working directory = /Users/jukwak82/Projects/metric_pulse/lib
+[2016-03-04 14:44:46 -0800 mbp-0631.ad.avant.com (70706)] WARN : Looked in these locations (based on defaults): /Users/jukwak82/Projects/metric_pulse/lib/config/newrelic.yml, /Users/jukwak82/Projects/metric_pulse/lib/newrelic.yml, /Users/jukwak82/Projects/metric_pulse/lib/config/newrelic.yml, /Users/jukwak82/Projects/metric_pulse/lib/newrelic.yml, /Users/jukwak82/.newrelic/newrelic.yml, /Users/jukwak82/newrelic.yml
+[2016-03-04 14:44:46 -0800 mbp-0631.ad.avant.com (70706)] INFO : Environment: development
+[2016-03-04 14:44:46 -0800 mbp-0631.ad.avant.com (70706)] INFO : No known dispatcher detected.
+[2016-03-04 14:44:46 -0800 mbp-0631.ad.avant.com (70706)] INFO : Application: development
+[2016-03-04 14:44:46 -0800 mbp-0631.ad.avant.com (70706)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2016-03-04 14:44:46 -0800 mbp-0631.ad.avant.com (70706)] INFO : Installing Net instrumentation
+[2016-03-04 14:44:46 -0800 mbp-0631.ad.avant.com (70706)] INFO : Finished instrumentation
+[2016-03-04 14:44:46 -0800 mbp-0631.ad.avant.com (70706)] INFO : Starting the New Relic agent in "development" environment.
+[2016-03-04 14:44:46 -0800 mbp-0631.ad.avant.com (70706)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-03-04 14:44:46 -0800 mbp-0631.ad.avant.com (70706)] WARN : No configuration file found. Working directory = /Users/jukwak82/Projects/metric_pulse/lib
+[2016-03-04 14:44:46 -0800 mbp-0631.ad.avant.com (70706)] WARN : Looked in these locations (based on defaults): /Users/jukwak82/Projects/metric_pulse/lib/config/newrelic.yml, /Users/jukwak82/Projects/metric_pulse/lib/newrelic.yml, /Users/jukwak82/Projects/metric_pulse/lib/config/newrelic.yml, /Users/jukwak82/Projects/metric_pulse/lib/newrelic.yml, /Users/jukwak82/.newrelic/newrelic.yml, /Users/jukwak82/newrelic.yml
+[2016-03-04 14:44:46 -0800 mbp-0631.ad.avant.com (70706)] INFO : Environment: development
+[2016-03-04 14:44:46 -0800 mbp-0631.ad.avant.com (70706)] INFO : No known dispatcher detected.
+[2016-03-04 14:44:46 -0800 mbp-0631.ad.avant.com (70706)] INFO : Application: development
+[2016-03-04 14:44:46 -0800 mbp-0631.ad.avant.com (70706)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2016-03-04 15:49:19 -0800 mbp-0631.ad.avant.com (74291)] INFO : Starting the New Relic agent in "development" environment.
+[2016-03-04 15:49:19 -0800 mbp-0631.ad.avant.com (74291)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-03-04 15:49:19 -0800 mbp-0631.ad.avant.com (74291)] WARN : No configuration file found. Working directory = /Users/jukwak82/Projects/metric_pulse/lib
+[2016-03-04 15:49:19 -0800 mbp-0631.ad.avant.com (74291)] WARN : Looked in these locations (based on defaults): /Users/jukwak82/Projects/metric_pulse/lib/config/newrelic.yml, /Users/jukwak82/Projects/metric_pulse/lib/newrelic.yml, /Users/jukwak82/Projects/metric_pulse/lib/config/newrelic.yml, /Users/jukwak82/Projects/metric_pulse/lib/newrelic.yml, /Users/jukwak82/.newrelic/newrelic.yml, /Users/jukwak82/newrelic.yml
+[2016-03-04 15:49:19 -0800 mbp-0631.ad.avant.com (74291)] INFO : Environment: development
+[2016-03-04 15:49:19 -0800 mbp-0631.ad.avant.com (74291)] INFO : No known dispatcher detected.
+[2016-03-04 15:49:19 -0800 mbp-0631.ad.avant.com (74291)] INFO : Application: development
+[2016-03-04 15:49:19 -0800 mbp-0631.ad.avant.com (74291)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2016-03-04 15:49:19 -0800 mbp-0631.ad.avant.com (74291)] INFO : Installing Net instrumentation
+[2016-03-04 15:49:19 -0800 mbp-0631.ad.avant.com (74291)] INFO : Finished instrumentation
